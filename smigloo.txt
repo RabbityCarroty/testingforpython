@@ -1,1 +1,1 @@
-blib echo "Test!"
+blib Write-Host "hi"
