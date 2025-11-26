@@ -1,1 +1,1 @@
-blib Write-Host "hi"
+blib say "hello world"
